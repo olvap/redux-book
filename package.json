@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-1",
+  "version": "1.0.0",
+  "description": "La app mantiene un array de contadores.  cada contador tiene dos acciones para aumentar o disminuir el valor del mismo.",
+  "main": "index.js",
+  "dependencies": {
+    "extract-text-webpack-plugin": "^2.1.2",
+    "html-webpack-plugin": "^2.29.0",
+    "redux": "^3.7.1",
+    "webpack": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
